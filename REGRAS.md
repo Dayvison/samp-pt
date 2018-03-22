@@ -14,13 +14,16 @@ Os admins têm o direito de kickar/banir se acreditam que tal ação seja justif
 
 **- Notas de anúncio -**
 
-O canal #publicidade é somente para servidores SA-MP.
+O canal #publicidade é somente para conteudo proprietário dedicado a SA-MP.
 
 Siga esta regra simples ao anunciar um servidor:
 
 - Não deve haver conversas / discussões neste canal.</br>
-- O anuncio deve ser unicamente baseado em um servidor SA-MP.</br>
-- Seu anuncio deve anunciar um servidor, não peça por mappers/programadores.</br>
+- O anuncio deve ser unicamente baseado em conteudo sobre SA-MP.</br>
+- Paginas / Redes Sociais / Sites que forem divulgados devem ter conteudo exclusivamente de SAMP</br>
+- Venda de hosts, hospedagem e Dominios são proibidos de serem divulgados. </br>
+- Não spammer informações inuteis ou as omita ela, apenas não exiba (tais como exemplo: Ping, Idioma...).</br>
+- Não peça por mappers/programadores/designers e outros serviços.</br>
 - Não cometa spam, poste apenas uma vez por semana, correndo risco de ser banido.</br>
 - Não mande mensagens privadas anunciando servidores, o canal #publicidade serve exatamente para isto.
 
